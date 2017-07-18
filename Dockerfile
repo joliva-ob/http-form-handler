@@ -18,8 +18,8 @@ ENV ENV pro
 
 CMD GOOS=linux GOARCH=386 go build -o formhandler
 
-ADD jacaranda /formhandler/bin/
+ADD formhandler /formhandler/bin/
 
 ENTRYPOINT /formhandler/bin/formhandler
 
-EXPOSE 8001%
+EXPOSE 8001
