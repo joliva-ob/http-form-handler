@@ -1,0 +1,6 @@
+server_port: 8080
+log_file: ./formhandler.log
+log_format: "%{color}%{time:0102 15:04:05.000} %{level:.4s} %{id:03x} ▶ %{shortfunc}: %{color:reset} %{message}"
+mail_to: api-support@oneboxtm.com
+slack_api_token: xoxp-86654408901-145405143987-214153140547-9ed6132be688f56df50941b6a15970df
+slack_channel_name: api-support

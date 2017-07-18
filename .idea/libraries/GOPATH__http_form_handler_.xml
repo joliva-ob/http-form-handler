@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;http-form-handler&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Onebox Drive/Git/go/src/golang.org" />
+      <root url="file://$USER_HOME$/Onebox Drive/Git/go/src/bitbucket.org" />
+      <root url="file://$USER_HOME$/Onebox Drive/Git/go/src/gopkg.in" />
+      <root url="file://$USER_HOME$/Onebox Drive/Git/go/src/code.google.com" />
+      <root url="file://$USER_HOME$/Onebox Drive/Git/go/src/9fans.net" />
+      <root url="file://$USER_HOME$/Onebox Drive/Git/go/src/github.com" />
+      <root url="file://$USER_HOME$/Onebox Drive/Git/go/src/k8s.io" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Onebox Drive/Git/go/src/golang.org" />
+      <root url="file://$USER_HOME$/Onebox Drive/Git/go/src/bitbucket.org" />
+      <root url="file://$USER_HOME$/Onebox Drive/Git/go/src/gopkg.in" />
+      <root url="file://$USER_HOME$/Onebox Drive/Git/go/src/code.google.com" />
+      <root url="file://$USER_HOME$/Onebox Drive/Git/go/src/9fans.net" />
+      <root url="file://$USER_HOME$/Onebox Drive/Git/go/src/github.com" />
+      <root url="file://$USER_HOME$/Onebox Drive/Git/go/src/k8s.io" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
