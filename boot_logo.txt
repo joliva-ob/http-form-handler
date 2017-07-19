@@ -6,5 +6,5 @@
 ██║   ██║██║╚██╗██║██╔══╝  ██╔══██╗██║   ██║ ██╔██╗
 ╚██████╔╝██║ ╚████║███████╗██████╔╝╚██████╔╝██╔╝ ██╗
  ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝
-     Http form handler and forwarder to mail and slack (v4.0.16)
+     Http form handler and forwarder to mail and slack (v4.0.16.1)
  
