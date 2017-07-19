@@ -1,4 +1,4 @@
-package configuration
+package main
 
 
 import (
@@ -25,6 +25,8 @@ type ConfigType struct {
 	Mail_to string
 	Slack_api_token string
 	Slack_channel_name string
+	Security_daily_quota int
+	Thankyou_page string
 }
 
 
@@ -93,9 +95,4 @@ func printBootLogo() {
 		fmt.Println(line)
 	}
 
-}
-
-
-func GetLog() *logging.Logger {
-	return log
 }
